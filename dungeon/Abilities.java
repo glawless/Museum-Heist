@@ -1,4 +1,4 @@
-package dungeon;
+
 
 public interface Abilities {
 

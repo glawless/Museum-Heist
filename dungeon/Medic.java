@@ -1,4 +1,3 @@
-package dungeon;
 import java.io.Serializable;
 
 public class Medic extends Robber implements Serializable{

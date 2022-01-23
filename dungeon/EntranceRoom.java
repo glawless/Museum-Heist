@@ -1,4 +1,3 @@
-package dungeon;
 import java.io.Serializable;
 
 public class EntranceRoom extends Room implements Serializable{

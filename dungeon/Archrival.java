@@ -1,4 +1,4 @@
-package dungeon;
+
 import java.io.Serializable;
 
 public class Archrival extends LawMan implements Serializable{

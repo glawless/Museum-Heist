@@ -1,4 +1,3 @@
-package dungeon;
 import java.io.Serializable;
 
 public class ExitRoom extends Room implements Serializable{

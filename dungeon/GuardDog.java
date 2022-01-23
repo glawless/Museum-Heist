@@ -1,4 +1,3 @@
-package dungeon;
 import java.io.Serializable;
 
 public class GuardDog extends LawMan implements Serializable{

@@ -1,4 +1,4 @@
-package dungeon;
+
 import java.io.Serializable;
 
 public class FemmeFatale extends Robber implements Serializable{
