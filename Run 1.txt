@@ -1,0 +1,118 @@
+Welcome to Museum Heist
+***********************
+1.) Start a new game
+2.) Load a saved game
+3.) Exit
+***********************
+Make a selection: 1
+Robbers for hire
+***********************
+1.) Gunslinger
+2.) Femme Fatale
+3.) Medic
+4.) Demolitionist
+5.) Pyromaniac
+***********************
+Choose a character: 
+1
+Enter the name of your Robber: TJ
+you have entered the musuem. Time to find the pillars
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+***********************
+Pick an option: e
+
+* * *
+| M |
+* - *
+TJ found a Med Kit and added it to his inventory
+TJ found a pillar and added it to his inventory
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+***********************
+Pick an option: 
+e
+
+* * *
+| P |
+* - *
+TJ found a pillar and added it to his inventory
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+***********************
+Pick an option: e
+
+* * *
+| M |
+* - *
+TJ has triggerd a laser Grid
+TJ was hit for 20 damage.
+TJ now has 105 health remaining.
+
+TJ battles Indiana Jones your archrival
+Number of turns this round is: 1
+1. Attack Opponent
+2. Gunzerker Attaack
+Choose an option: 2
+TJ fires wildly at Indiana Jones your archrival for 127 damage!
+Indiana Jones your archrival was hit for 127 damage.
+Indiana Jones your archrival now has 373 health remaining.
+
+Indiana Jones your archrival fumbles his bag. Being unable to open his satchel.
+Indiana Jones your archrival cracks his whip at TJ:
+TJ was hit for 42 damage.
+TJ now has 63 health remaining.
+
+
+Number of turns this round is: 1
+1. Attack Opponent
+2. Gunzerker Attaack
+Choose an option: 2
+TJ fires wildly at Indiana Jones your archrival for 120 damage!
+Indiana Jones your archrival was hit for 120 damage.
+Indiana Jones your archrival now has 253 health remaining.
+
+Indiana Jones your archrival cracks his whip at TJ:
+TJ was hit for 45 damage.
+TJ now has 18 health remaining.
+
+
+Number of turns this round is: 1
+1. Attack Opponent
+2. Gunzerker Attaack
+Choose an option: 2
+TJ fires blindly and too erratically failing to hit Indiana Jones your archrival
+
+Indiana Jones your archrival cracks his whip at TJ:
+Indiana Jones your archrival's attack on TJ failed!
+
+Number of turns this round is: 1
+1. Attack Opponent
+2. Gunzerker Attaack
+Choose an option: 2
+TJ fires blindly and too erratically failing to hit Indiana Jones your archrival
+
+Indiana Jones your archrival cracks his whip at TJ:
+TJ was hit for 37 damage.
+TJ now has 0 health remaining.
+
+TJ has been arrested 
+
+TJ was defeated
+Would you like to perform the next heist y/n: Please enter a valid selection
+Would you like to perform the next heist y/n: 

@@ -1,0 +1,195 @@
+Welcome to Museum Heist
+***********************
+1.) Start a new game
+2.) Load a saved game
+3.) Exit
+***********************
+Make a selection: 2
+you have entered the musuem. Time to find the pillars
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: s
+
+* - *
+| M |
+* - *
+Donald battles Bob
+Number of turns this round is: 1
+1. Attack Opponent
+2. Use your Entitlement
+Choose an option: 2
+Donald tells Bob to pull up their bootstraps and gives them the student loan debt dealing 1814 damage!
+Bob was hit for 1814 damage.
+Bob now has 0 health remaining.
+
+Bob has been arrested 
+Donald was victorious!
+Donald found a pillar and added it to his inventory
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: s
+
+* - *
+| E |
+* - *
+This room is empty nothing to find
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: s
+
+* - *
+| M |
+* - *
+Donald has triggerd a laser Grid
+Donald managed to dodge the attack
+Donald found a Med Kit and added it to his inventory
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: m
+Donald used a med kit
+Donaldheals for 50
+Donald now has 1050
+Donald now has 0's left
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: s
+
+* - *
+* X |
+* * *
+Donald battles Max the guard dog
+Number of turns this round is: 1
+1. Attack Opponent
+2. Use your Entitlement
+Choose an option: 2
+Donald tells Max the guard dog to pull up their bootstraps and gives them the student loan debt dealing 1560 damage!
+Max the guard dog was hit for 1560 damage.
+Max the guard dog now has 0 health remaining.
+
+Max the guard dog has been arrested 
+Donald was victorious!
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: s
+Cannot move this way there is no door
+
+* - *
+* E |
+* * *
+Looks like you've already been in this room
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: e
+
+* - *
+* E |
+* * *
+This room is empty nothing to find
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: e
+
+* - *
+| O *
+* * *
+You Dont have all the pillars yet come back when you find them all
+This room is empty nothing to find
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: n
+
+* - *
+| M *
+* - *
+Donald has triggerd a laser Grid
+Donald managed to dodge the attack
+Donald found a pillar and added it to his inventory
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: s
+
+* - *
+| O *
+* * *
+Looks like you've already been in this room
+You Dont have all the pillars yet come back when you find them all
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+L) Exit the game
+***********************
+Pick an option: 

@@ -1,0 +1,67 @@
+Welcome to Museum Heist
+***********************
+1.) Start a new game
+2.) Load a saved game
+3.) Exit
+***********************
+Make a selection: 1
+Robbers for hire
+***********************
+1.) Gunslinger
+2.) Femme Fatale
+3.) Medic
+4.) Demolitionist
+5.) Pyromaniac
+***********************
+Choose a character: 
+1945
+you have entered the musuem. Time to find the pillars
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+***********************
+Pick an option: e
+
+* * *
+| X |
+* - *
+Donald battles Max the guard dog
+Number of turns this round is: 1
+1. Attack Opponent
+2. Use your Entitlement
+Choose an option: 2
+Donald tells Max the guard dog to pull up their bootstraps and gives them the student loan debt dealing 1108 damage!
+Max the guard dog was hit for 1108 damage.
+Max the guard dog now has 0 health remaining.
+
+Max the guard dog has been arrested 
+Donald was victorious!
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+***********************
+Pick an option: e
+
+* * *
+| L |
+* - *
+Donald has triggerd a laser Grid
+Donald managed to dodge the attack
+***********************
+N) move North
+E) move East
+S) move South
+W) move West
+M) use a medKit
+Q) Save the game
+***********************
+Pick an option: q
+Would you like to overwrite your previous save? Y/N: y
